@@ -1,0 +1,2 @@
+#Day13
+To make and access a plist in swift you have to make a static func first, then make a constant called url and set that equal to Bunble.main.url withExtension and forResorce, then make a do catch with three more constants return result, then print error.locallizedDescription and finally return an empty array. Make sure it is inside a struct to put the code in. That is how you type code for a plist in swift it is not easy and it is not hard either.
